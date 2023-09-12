@@ -1,2 +1,2 @@
 # GaiBins
-An interactive web part game.
+An interactive web party game.
